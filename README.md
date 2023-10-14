@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Yatharth Deoly</h1>
 <h3 align="center">An experienced developer with 6.5+ years of experience in IT industries. As an aspiring data scientist currently
 pursuing a master degree in AI/ML, I am highly motivated to learn and apply the latest techniques in data analysis,
-machine learning, and data visualisation. Proficient in Python and SQL, with a strong foundation in statistical analysis
-and data modelling.
+machine learning, and data visualization. Proficient in Python and SQL, with a strong foundation in statistical analysis
+and data modeling.
 I am excited to apply these skills to real-world data problems and make a meaningful impact. Additionally, I have
 excellent collaboration and communication skills, which I have honed through group projects and presentations.
 Looking to leverage my skills and knowledge to contribute to a dynamic data science team.</h3>
@@ -54,6 +54,6 @@ Looking to leverage my skills and knowledge to contribute to a dynamic data scie
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yatharth02&show_icons=true&locale=en&layout=compact" alt="yatharth02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yatharth02&show_icons=true&locale=en&layout=compact" alt="stats_compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharth02&show_icons=true&locale=en" alt="yatharth02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharth02&show_icons=true&locale=en" alt="stats" /></p>
