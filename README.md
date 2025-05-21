@@ -2,23 +2,28 @@
 
 
 <h1 align="center">Hi 👋, I'm Yatharth Deoly</h1>
-<h3 align="center">An experienced developer with 6.5+ years of experience in IT industries. As an aspiring data scientist currently
-pursuing a master degree in AI/ML, I am highly motivated to learn and apply the latest techniques in data analysis,
-machine learning, and data visualization. Proficient in Python and SQL, with a strong foundation in statistical analysis
-and data modeling.
-I am excited to apply these skills to real-world data problems and make a meaningful impact. Additionally, I have
-excellent collaboration and communication skills, which I have honed through group projects and presentations.
-Looking to leverage my skills and knowledge to contribute to a dynamic data science team.</h3>
+<h3 align="center">🚀 Lead Software Engineer | AI-Powered Integrations | Payment Orchestration | Backend Engineering</h3>
+<p align="center">
+I’m a result-driven engineer with 8+ years of experience in backend development, AI-driven automation, and intelligent integration platforms—primarily in fintech, BFSI, e-commerce, and enterprise domains.
+
+At Cloudberry360, I lead initiatives in payment orchestration, agentic AI systems, and large-scale backend services. I've built intelligent routing engines, fraud detection modules, tokenization frameworks, and automation tools using CrewAI, Langchain, and cloud-native stacks.
+
+🎓 I hold a Master’s in Data Science from Deakin University and a PGP in AI & ML from the University of Texas, Austin.
+
+</p>
 
 <img align="right" alt="coding" width="400" src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth02&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth02" /> </p>
 
-- 🔭 I’m currently pursuing on **Masters in Data Science**
+- 💼 Currently working as **Lead Software Engineer at Cloudberry360**
+- 🧠 Skilled in **Java, Spring Boot, Python, REST APIs, AWS, Docker, AI/ML**
+- 🧪 Building with **CrewAI, Langchain, OpenCV, PyTesseract, Streamlit**
+- 🎓 **MS in Data Science** (Deakin) | **PGP AI & ML** (UT Austin)
+- 📫 Reach me at **yatharthdeoly@gmail.com**
 
-- 📫 How to reach me **yatharthdeoly@gmail.com**
-
-<h3 align="left">Connect with me:</h3><a href="https://www.linkedin.com/in/yatharthdeoly/"><img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" width="40" height="40"/></a>
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/yatharthdeoly/"><img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" width="40" height="40"/></a>
 <p align="left">
 </p>
 
