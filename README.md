@@ -58,7 +58,6 @@ At Cloudberry360, I lead initiatives in payment orchestration, agentic AI system
   <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/crewai.svg" alt="crewai" width="40" height="40"/>
-  <img src="https://commons.wikipedia.org/wiki/File:Ai-artificial-intelligence-logo.svg" alt="artificial-intelligence" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yatharth02&show_icons=true&locale=en&layout=compact" alt="stats_compact" /></p>
