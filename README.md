@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yatharth Deoly</h1>
 <h3 align="center">🚀 Lead Software Engineer | AI-Powered Integrations | Payment Orchestration | Backend Engineering</h3>
 <p align="center">
-I’m a result-driven engineer with 8+ years of experience in backend development, AI-driven automation, and intelligent integration platforms—primarily in fintech, BFSI, e-commerce, and enterprise domains.
+I’m a result-driven engineer with 8+ years of experience in backend development, AI-driven automation, and intelligent integration platforms - primarily in fintech, BFSI, e-commerce, and enterprise domains.
 
 At Cloudberry360, I lead initiatives in payment orchestration, agentic AI systems, and large-scale backend services. I've built intelligent routing engines, fraud detection modules, tokenization frameworks, and automation tools using CrewAI, Langchain, and cloud-native stacks.
 
@@ -57,6 +57,8 @@ At Cloudberry360, I lead initiatives in payment orchestration, agentic AI system
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/crewai.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://commons.wikipedia.org/wiki/File:Ai-artificial-intelligence-logo.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yatharth02&show_icons=true&locale=en&layout=compact" alt="stats_compact" /></p>
